@@ -105,7 +105,6 @@ Here's a step-by-step breakdown of the code:
 - If the height is greater than or equal to the threshold, the person is classified as an "Adult" or "Therapist."
 - ## Adjusting the Threshold:
 - The threshold value (280 pixels in this case) can be adjusted based on the specific context of the video or the expected size of children and adults in the footage.
-- you can refer the intern_task.ipynb notebook in the repository to find out how i approched the problem
 
 ## Notes
 
