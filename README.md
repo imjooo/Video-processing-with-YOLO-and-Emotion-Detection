@@ -1,7 +1,3 @@
-Sure! Here’s the updated README with a placeholder for additional points:
-
----
-
 # Video Processing with YOLO and Emotion Detection
 
 ## Overview
